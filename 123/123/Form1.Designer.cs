@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApplication1
+﻿namespace _123
 {
     partial class Form1
     {
@@ -33,9 +33,9 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(80, 45);
+            this.button1.Location = new System.Drawing.Point(48, 83);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(117, 77);
+            this.button1.Size = new System.Drawing.Size(130, 64);
             this.button1.TabIndex = 0;
             this.button1.Text = "button1";
             this.button1.UseVisualStyleBackColor = true;
